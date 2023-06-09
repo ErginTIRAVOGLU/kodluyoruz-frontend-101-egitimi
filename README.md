@@ -1,3 +1,4 @@
+Bu proje [Github](https://github.com/hakanyalcinkaya/kodluyoruz-frontend-101-egitimi) adresinden forklanmıştır.
 # Kodluyoruz - FrontEnd 101 Eğitimi
 > Hakan Yalçınkaya 
 > > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
